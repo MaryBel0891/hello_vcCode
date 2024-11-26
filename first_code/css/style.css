@@ -1,0 +1,15 @@
+header {
+  background-color: black;
+}
+
+h1 {
+  color: #fe0000;
+}
+
+body {
+  font-size: 20px;
+}
+
+body div {
+  font-size: 10px;
+}
